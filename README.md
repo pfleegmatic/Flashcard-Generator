@@ -1,15 +1,17 @@
 # Flashcard-Generator
 The complete list of questions and answers for this application is inside the questions.json file. 
 
-Packages used, inquirer for Command Line Interaction (CLI) and fs (to resolve earlier issue that prevented looping though question array):
-npm install inquirer 
+#Packages used: 
+1) Inquirer for Command Line Interaction (CLI) and 
+2) fs (to resolve earlier issue that prevented looping though question array), install following in your directory as needed:
+npm install inquirer, 
 npm install fs
 
-To run the game execute the following command:
+#To run the game execute the following command:
 node flashcards.js
 
 
-Advanced JavaScript Assignment: Cloze Constructors
+#Advanced JavaScript Assignment: Cloze Constructors
 Overview
 
 To develop backend function for a basic flashcard game application.
