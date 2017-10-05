@@ -1,0 +1,13 @@
+output dump from bashCloze: 5 Question: 1+4 = 5 
+Front: how many days in the work week? Back: five 
+Front: Who is Garfield's best friend? Back: Odie 
+Cloze: 6 Question: 3+3=6 
+Cloze: Pookie Question: Garfield cuddles a lot with Pookie 
+Cloze: coffee Question: The answer is always coffee 
+Front: What is the most important thing that needs to be done first thing in the morning? Back: drink coffee 
+Cloze: lunch Question: I am eating lunch 
+Front: What am I eating? Back: lunch 
+Cloze: 5 Question: 2+3=5 
+Front: 2+3 =? Back: 5 
+Cloze: Ada Lovelace Question: Ada Lovelace was chiefly known for her work on Charles Babbages propsed computer, THe Analytical Engine 
+Front: Who was one of the first programmers of the Harvard Mark I and invented one of the first compiler related tools? Back: Grace Hopper 

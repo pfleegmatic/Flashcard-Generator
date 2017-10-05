@@ -1,0 +1,44 @@
+console.log(' Front & Back of Cards Have Loaded!');
+	
+	[
+	//exports.basicCards = 
+	{
+	  "frontOne": "Who was the first president of the United States?",
+	  "backOne": "George Washington"
+	},
+	{
+	  "frontTwo": "Who came up with the theory of General and Special Relativity?",
+	  "backTwo": "Albert Einstein"
+	},
+	{
+	  "frontThree": "Schrödinger'ss cat is a thought experiment dealing with which type of mechanics?",
+	  "backThree": "Quantum Mechanics"
+	},
+
+	{
+	  "frontFour": "In mathematics, what is the name of the sequence characterized by the fact that every number after the first two is the sum of the two preceding ones?",
+	  "backFour": "Fibonacci Sequence"
+	},
+
+	
+	//exports.clozeCards = 
+	{
+	  "frontOne": "... gave Marilyn Monroe a white poodle named Mafia.",
+	  "backOne": "Frank Sinatra gave Marilyn Monroe a white poodle named Mafia."
+	},
+	{
+	  "frontTwo": "...  is the only internal organ capable of regenerating lost tissue.",
+	  "backTwo": "The liver is the only internal organ capable of regenerating lost tissue."
+	},
+	{
+	  "frontThree": "... is the name of the satellite that recently crashed on Saturn’s surface.",
+	  "backThree": "Cassini is the name of the satellite that recently crashed on Saturn’s surface."
+	},
+
+	{
+	  "frontFour": "...describes the relationship between the pressure and the velocity of a moving fluid (i.e., air or water)..",
+	  "backFour": "Bernoulli/s principle describes the relationship between the pressure and the velocity of a moving fluid (i.e., air or water )."
+	}
+]
+
+
